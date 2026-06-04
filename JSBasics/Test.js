@@ -6,3 +6,6 @@ let job = "automation test engineer";
 
 let profile = `My name is ${name}, I am an ${job}. Currently concentrating on manual testing fundamentals`;
 console.log(profile);
+
+let a= 10, b=2;
+console.log(a+b);
