@@ -1,0 +1,8 @@
+let num = 10;
+console.log(num);
+
+let name = "Hema Priya K S";
+let job = "automation test engineer";
+
+let profile = `My name is ${name}, I am an ${job}. Currently concentrating on manual testing fundamentals`;
+console.log(profile);
